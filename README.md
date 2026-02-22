@@ -1,4 +1,4 @@
-##Análise de Cancelamentos de Reservas Hoteleiras e Impacto na Geração de Receitas
+## Análise de Cancelamentos de Reservas Hoteleiras e Impacto na Geração de Receitas
 
 ## Contexto e Problema de Negócio
 Nos últimos anos, o City Hotel e o Resort Hotel têm registado elevadas taxas de cancelamento de reservas, resultando na redução das receitas e numa utilização ineficiente dos quartos disponíveis. Reduzir estas taxas é crucial para aumentar a eficiência operacional e maximizar a geração de receitas.
